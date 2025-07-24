@@ -28,19 +28,22 @@ A CI/CD-ready boilerplate that integrates **Next.js**, **Docker**, and **Jenkins
 
 ---
 
-## 🧱 Folder Structure
+### 📁 Folder Structure
 
+```text
 NextJS-Jenkins-Docker/
-├── .github/ # GitHub workflows (optional)
-├── .dockerignore # Excludes junk from Docker context
-├── Dockerfile # Docker instructions
-├── Jenkinsfile # CI/CD pipeline for Jenkins
-├── next.config.js # Next.js config
-├── package.json # Dependencies
-├── pages/ # Next.js pages
-├── public/ # Static assets
-├── styles/ # CSS/SCSS/Tailwind
-└── README.md # You’re looking at it 👀
+├── .github/              # GitHub workflows (optional)
+├── .dockerignore         # Excludes junk from Docker context
+├── Dockerfile            # Docker instructions
+├── Jenkinsfile           # CI/CD pipeline for Jenkins
+├── next.config.js        # Next.js config
+├── package.json          # Dependencies
+├── pages/                # Next.js pages
+├── public/               # Static assets
+├── styles/               # CSS/SCSS/Tailwind
+└── README.md             # You’re looking at it 👀
+```
+
 
 
 
