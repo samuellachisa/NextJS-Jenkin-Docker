@@ -51,7 +51,7 @@ Follow these steps to clone, install, and run the app:
 
 ### 🧾 Clone the Repository
 
-```bash
+```
 git clone https://github.com/samuellachisa/NextJS-Jenkin-Docker.git
 cd NextJS-Jenkin-Docker
 
