@@ -38,7 +38,7 @@ NextJS-Jenkins-Docker/
 ├── Jenkinsfile           # CI/CD pipeline for Jenkins
 ├── next.config.js        # Next.js config
 ├── package.json          # Dependencies
-├── pages/                # Next.js pages
+├── app/                  # Next.js App Directory
 ├── public/               # Static assets
 ├── styles/               # CSS/SCSS/Tailwind
 └── README.md             # You’re looking at it 👀
